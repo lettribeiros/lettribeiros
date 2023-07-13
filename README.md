@@ -24,7 +24,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lettribeiros&theme=radical&layout=donut"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lettribeiros&theme=radical&layout=compact"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lettribeiros&layout=donut"
