@@ -10,6 +10,29 @@
 </div>
 
   ##
+  
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lettribeiros&show_icons=true&theme=radical"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=lettribeiros&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lettribeiros&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lettribeiros&theme=radical&layout=donut"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lettribeiros&layout=donut"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lettribeiros&show_icons=true" />
+</picture>
+
+  ##
 
 <div> 
   <a href="https://instagram.com/lett_ribeiros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
