@@ -1,4 +1,6 @@
 ## Olá! Meu nome é Letícia Ribeiro, sou Desenvolvedora Full-Stack Jr.
+Sou estudante de Engenharia Civil, mas me apaixonei pelo mundo da tecnologia, a principio estudando a parte do frontend e hoje me aprofundando mais no backend.<br>
+Pretendo através da tecnologia facilitar a vida das pessoas!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="lett-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
