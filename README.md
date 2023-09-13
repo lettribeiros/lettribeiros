@@ -14,6 +14,8 @@ Pretendo através da tecnologia facilitar a vida das pessoas!
   <img align="center" alt="lett-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
+<img align="right" height="350em" src=https://i.picasion.com/pic92/087ed49ff705bc0f6b6de36d25d1fa4a.gif>
+
   ##
   
 <picture>
