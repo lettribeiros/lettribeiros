@@ -1,4 +1,4 @@
-## Olá! Meu nome é Letícia Ribeiro, sou Desenvolvedora Full-Stack Jr.
+## Olá! Meu nome é Letícia Ribeiro, sou Desenvolvedora Full-Stack.
 Sou estudante de Engenharia Civil, mas me apaixonei pelo mundo da tecnologia, a principio estudando a parte do frontend e hoje me aprofundando mais no backend.<br>
 Pretendo através da tecnologia facilitar a vida das pessoas!
 
